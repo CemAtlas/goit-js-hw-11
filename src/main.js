@@ -11,7 +11,7 @@ const loader = document.querySelector('.loader');
 
 const lightbox = new SimpleLightbox('.gallery a');
 
-const API_KEY = 'YOUR_PIXABAY_API_KEY';
+const API_KEY = '50804443-2b846a940781baef8affcab62';
 const BASE_URL = 'https://pixabay.com/api/';
 
 form.addEventListener('submit', async e => {
